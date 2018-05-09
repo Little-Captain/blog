@@ -44,9 +44,3 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
-#pelican_toc插件配置
-TOC = {
-    'TOC_HEADERS' : '^h[1-6]',  # What headers should be included in the generated toc
-                                # Expected format is a regular expression
-}
