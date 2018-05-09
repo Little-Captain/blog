@@ -13,7 +13,7 @@ TIMEZONE = 'Asia/Shanghai'
 DATE_FORMATS = {'zh':'%Y-%m-%d %H:%M'}
 DEFAULT_LANG = 'en'
 
-THEME = 'pelican-themes/clean-blog'
+THEME = 'pelican-themes/tuxlite_tbs'
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = []
 
@@ -32,25 +32,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# DISPLAY_PAGES_ON_MENU = True
-# DISPLAY_CATEGORIES_ON_MENU = True
-# DISPLAY_CATEGORIES_ON_SUBMENU = False
-# DISPLAY_CATEGORIES_ON_POSTINFO = False
-# DISPLAY_AUTHOR_ON_POSTINFO = False
-# DISPLAY_SEARCH_FORM = False
-# PAGES_SORT_ATTRIBUTE = 'Title'
-# GITHUB_URL = None
-# TAG_SAVE_AS = ''
-# AUTHOR_SAVE_AS = ''
-# DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'tipue_search')
-# TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
-HEADER_COVER = 'assets/images/header_cover.jpg'
-GITHUB_URL = 'https://github.com/Little-Captain'
-
-COLOR_SCHEME_CSS = 'monokai.css'
-
 # Blogroll
-# LINKS = (('Github', 'https://github.com/Little-Captain'),)
+LINKS = (('Github', 'https://github.com/Little-Captain'),)
 
 # Social widget
 # SOCIAL = (('Another social link', '#'),)
