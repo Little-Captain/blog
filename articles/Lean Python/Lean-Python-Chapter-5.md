@@ -1,7 +1,6 @@
 Title: Lean Python(Chapter 5)
 Date: 2017-09-22 13:53:15
 Category: Lean Python
-Tag: Python
 
 > Module
 

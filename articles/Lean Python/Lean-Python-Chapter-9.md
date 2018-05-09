@@ -1,7 +1,6 @@
 Title: Lean Python(Chapter 9)
 Date: 2017-09-23 17:21:57
 Category: Lean Python
-Tag: Python
 
 > Accessing the Web
 

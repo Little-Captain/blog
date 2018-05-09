@@ -1,7 +1,6 @@
 Title: Lean Python(Chapter 1)
 Date: 2017-09-19 12:40:08
 Category: Lean Python
-Tag: Python
 
 > Foundation
 
