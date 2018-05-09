@@ -104,7 +104,6 @@ upload:
 	git add . ;
 	git commit -m 'update blog' ;
 	git push origin master ;
-	cd - ;
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
