@@ -40,7 +40,7 @@ LINKS = (('Github', 'https://github.com/Little-Captain'),)
 
 DEFAULT_PAGINATION = 10
 
-PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
+# PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
