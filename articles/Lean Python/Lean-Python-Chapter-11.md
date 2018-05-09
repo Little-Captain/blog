@@ -1,6 +1,7 @@
 Title: Lean Python(Chapter 11)
 Date: 2017-09-24 13:00:07
-Category: Python
+Category: Lean Python
+Tags: Python
 
 > Databases
 

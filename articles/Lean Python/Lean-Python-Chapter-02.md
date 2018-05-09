@@ -1,6 +1,7 @@
 Title: Lean Python(Chapter 02)
 Date: 2017-09-19 18:42:46
-Category: Python
+Category: Lean Python
+Tags: Python
 
 > Everything is Object
 

@@ -1,6 +1,7 @@
 Title: Lean Python(Chapter 03)
 Date: 2017-09-21 21:26:45
-Category: Python
+Category: Lean Python
+Tags: Python
 
 > Program Structure
 
