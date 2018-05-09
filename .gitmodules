@@ -1,0 +1,9 @@
+[submodule "Little-Captain.github.io"]
+	path = Little-Captain.github.io
+	url = git@github.com:Little-Captain/Little-Captain.github.io.git
+[submodule "pelican-themes"]
+	path = pelican-themes
+	url = git@github.com:getpelican/pelican-themes.git
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = git@github.com:getpelican/pelican-plugins.git
