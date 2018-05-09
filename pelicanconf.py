@@ -15,7 +15,7 @@ DEFAULT_LANG = 'en'
 
 THEME = 'pelican-themes/tuxlite_tbs'
 PLUGIN_PATHS = ["pelican-plugins"]
-PLUGINS = ['pelican-toc']
+PLUGINS = []
 
 USE_FOLDER_AS_CATEGORY = True
 
