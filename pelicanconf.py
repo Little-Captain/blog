@@ -15,7 +15,7 @@ DEFAULT_LANG = 'en'
 
 THEME = 'pelican-themes/tuxlite_tbs'
 PLUGIN_PATHS = ["pelican-plugins"]
-PLUGINS = []
+PLUGINS = ['pelican-toc']
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -44,3 +44,12 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+#pelican_toc插件配置
+TOC = {
+    'TOC_HEADERS' : '^h[3-6]',  # What headers should be included in the generated toc
+                                # Expected format is a regular expression
+
+    'TOC_RUN'     : 'true'      # Default value for toc generation, if it does not evaluate
+                                # to 'true' no toc will be generated
+}
