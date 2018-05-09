@@ -6,7 +6,7 @@ blog=Little-Captain.github.io
 cd $blog
 git add .
 git commit -m 'update blog'
-git push origin master
+git push
 cd -
 
 git add .
