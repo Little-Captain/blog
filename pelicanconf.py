@@ -13,7 +13,7 @@ TIMEZONE = 'Asia/Shanghai'
 DATE_FORMATS = {'zh':'%Y-%m-%d %H:%M'}
 DEFAULT_LANG = 'en'
 
-THEME = 'pelican-themes/Flex'
+THEME = 'pelican-themes/backdrop'
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = []
 
@@ -33,12 +33,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('My Github', 'https://github.com/Little-Captain'),)
+LINKS = (('Github', 'https://github.com/Little-Captain'),)
 
 # Social widget
 # SOCIAL = (('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
+
+PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
