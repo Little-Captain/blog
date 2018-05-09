@@ -12,8 +12,6 @@ Tags: Python
 
 * 类是对象的模板
 
-<!--more-->
-
 ```python
 from datetime import datetime
 

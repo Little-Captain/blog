@@ -5,8 +5,6 @@ Tags: Python
 
 > Testing Your Code
 
-<!--more-->
-
 模块化编程与代码测试
 =================
 

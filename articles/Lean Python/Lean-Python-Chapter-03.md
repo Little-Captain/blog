@@ -10,8 +10,6 @@ Tags: Python
 
 ## if 语句
 
-<!--more-->
-
 ```python
 if test:
     statement1 # 如果条件为真, 这三条语句都将执行

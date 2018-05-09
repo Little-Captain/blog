@@ -13,8 +13,6 @@ Tags: Python
 print(arg1,arg2,arg3...,sep=' ',end='\n')
 ```
 
-<!--more-->
-
 * 使用格式输出
 
 ```python

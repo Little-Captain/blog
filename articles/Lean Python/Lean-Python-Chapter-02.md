@@ -5,8 +5,6 @@ Tags: Python
 
 > Everything is Object
 
-<!--more-->
-
 对象类型
 =======
 

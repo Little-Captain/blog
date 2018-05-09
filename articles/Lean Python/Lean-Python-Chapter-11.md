@@ -22,8 +22,6 @@ cursor.execute(sql)
 rows = cursor.fetchall()
 ```
 
-<!--more-->
-
 ## 连接和导入数据 (SQLite)
 
 ```python

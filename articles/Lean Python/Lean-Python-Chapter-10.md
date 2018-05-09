@@ -15,8 +15,6 @@ txt.find('z')
 txt.find('green')
 ```
 
-<!-- more -->
-
 正则表达式
 ========
 

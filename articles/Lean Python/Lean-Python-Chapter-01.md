@@ -16,8 +16,6 @@ Tags: Python
 dir(print)
 ```
 
-<!--more-->
-
 * help : 查看内建关键字和方法的帮助文档
 
 ```python

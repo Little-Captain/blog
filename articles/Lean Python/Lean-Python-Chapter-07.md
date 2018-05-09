@@ -5,8 +5,6 @@ Tags: Python
 
 > Exception and Error Handling
 
-<!-- more -->
-
 异常和错误的处理
 =============
 

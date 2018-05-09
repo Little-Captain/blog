@@ -5,8 +5,6 @@ Tags: Python
 
 > Module
 
-<!-- more -->
-
 导入模块
 =======
 
