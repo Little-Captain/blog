@@ -17,6 +17,8 @@ THEME = 'pelican-themes/aboutwilson'
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = []
 
+USE_FOLDER_AS_CATEGORY = False
+
 SITELOGO = 'assets/images/avatar.jpg'
 FAVICON = 'assets/images/avatar.jpg'
 SITELOGO_SIZE = 14
