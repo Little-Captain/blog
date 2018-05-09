@@ -13,7 +13,7 @@ TIMEZONE = 'Asia/Shanghai'
 DATE_FORMATS = {'zh':'%Y-%m-%d %H:%M'}
 DEFAULT_LANG = 'en'
 
-THEME = 'pelican-themes/brownstone'
+THEME = 'pelican-themes/mg'
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = []
 
@@ -40,6 +40,10 @@ AUTHOR_FEED_RSS = None
 # DISPLAY_SEARCH_FORM = False
 # PAGES_SORT_ATTRIBUTE = 'Title'
 # GITHUB_URL = None
+TAG_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'tipue_search')
+TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
 
 # Blogroll
 LINKS = (('Github', 'https://github.com/Little-Captain'),)
