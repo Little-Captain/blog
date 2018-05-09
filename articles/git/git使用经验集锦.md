@@ -3,6 +3,8 @@ Date: 2017-07-31 15:39:05
 Category: git
 Tags: git, 源代码管理
 
+[toc]
+
 ## 修改 Git 的默认编辑器
 
 ```bash
