@@ -1,4 +1,4 @@
-Title: Lean Python(Chapter 7)
+Title: Lean Python(Chapter 07)
 Date: 2017-09-23 15:39:49
 Category: Python
 
