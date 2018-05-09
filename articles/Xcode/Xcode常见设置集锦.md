@@ -6,7 +6,7 @@ Tags: Xcode
 消除 Xcode 警告
 ==============
 
-![](../assets/images/Xcode/消除 Xcode 警告.png)
+![](../assets/images/Xcode/消除Xcode警告.png)
 
 
 
