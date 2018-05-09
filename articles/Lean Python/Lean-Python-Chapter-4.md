@@ -1,6 +1,6 @@
 Title: Lean Python(Chapter 4)
 Date: 2017-09-21 23:39:04
-Category: Lean Python
+Category: Python
 
 > Input and Output
 
