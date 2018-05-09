@@ -1,7 +1,7 @@
 Title: Lean Python(Chapter 06)
 Date: 2017-09-23 14:25:36
-Category: Lean Python
-Tags: Python
+Category: Python
+Tags: Lean Python
 
 > Object Orientation
 

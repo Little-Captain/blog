@@ -1,7 +1,7 @@
 Title: Lean Python(Chapter 10)
 Date: 2017-09-23 17:46:49
-Category: Lean Python
-Tags: Python
+Category: Python
+Tags: Lean Python
 
 字符串搜索
 ========

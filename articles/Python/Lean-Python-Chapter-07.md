@@ -1,7 +1,7 @@
 Title: Lean Python(Chapter 07)
 Date: 2017-09-23 15:39:49
-Category: Lean Python
-Tags: Python
+Category: Python
+Tags: Lean Python
 
 > Exception and Error Handling
 

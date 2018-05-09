@@ -1,6 +1,6 @@
 Title: 在 Windows 平台搭建 gogs 服务
 Date: 2017-06-11 20:33:11
-Category: git gogs
+Category: git
 Tags: git, gogs
 
 准备

@@ -1,7 +1,7 @@
 Title: Lean Python(Chapter 04)
 Date: 2017-09-21 23:39:04
-Category: Lean Python
-Tags: Python
+Category: Python
+Tags: Lean Python
 
 > Input and Output
 

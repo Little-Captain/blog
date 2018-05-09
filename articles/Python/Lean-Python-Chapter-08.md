@@ -1,7 +1,7 @@
 Title: Lean Python(Chapter 08)
 Date: 2017-09-23 16:42:57
-Category: Lean Python
-Tags: Python
+Category: Python
+Tags: Lean Python
 
 > Testing Your Code
 
