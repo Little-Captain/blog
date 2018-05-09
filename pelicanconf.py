@@ -17,7 +17,7 @@ THEME = 'pelican-themes/basic'
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = []
 
-USE_FOLDER_AS_CATEGORY = False
+USE_FOLDER_AS_CATEGORY = True
 
 SITELOGO = 'assets/images/avatar.jpg'
 FAVICON = 'assets/images/avatar.jpg'
