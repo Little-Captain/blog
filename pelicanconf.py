@@ -13,7 +13,7 @@ TIMEZONE = 'Asia/Shanghai'
 DATE_FORMATS = {'zh':'%Y-%m-%d %H:%M'}
 DEFAULT_LANG = 'en'
 
-THEME = 'pelican-themes/html5up-dopetrope'
+THEME = 'pelican-themes/html5-dopetrope'
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = []
 
