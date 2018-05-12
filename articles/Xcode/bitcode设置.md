@@ -11,7 +11,7 @@ Tags: Xcode
 * xcodebuild build 命令. 但是要加入一些特殊编译参数
 
 ```bash
-xcodebuild BITCODE_GENERATION_MODE=bitcode OTHER_CFLAGS="-fembed-bitcode" ONLY_ACTIVE_ARCH=NO -configuration "Release" -target "${TARGET_NAME}" -sdk iphoneos clean build
+xcodebuild BITCODE_GENERATION_MODE=bitcode OTHER_CFLAGS="-fembed-bitcode" -configuration "Release" -target "${TARGET_NAME}" -sdk iphoneos clean build
 xcodebuild BITCODE_GENERATION_MODE=bitcode OTHER_CFLAGS="-fembed-bitcode" -configuration "Release" -arch "x86_64" -target "${TARGET_NAME}" -sdk iphonesimulator clean build
 ```
 
