@@ -5,11 +5,11 @@ Tags: git, 源代码管理
 
 *git核心命令工作示意图*
 
-![](../assets/images/git/git常用命令-01.png)
+<img src="../assets/images/git/git常用命令-01.png" width = 100% align=center />
 
-![](../assets/images/git/git常用命令-02.png)
+<img src="../assets/images/git/git常用命令-02.png" width = 100% align=center />
 
-![](../assets/images/git/git常用命令-03.png)
+<img src="../assets/images/git/git常用命令-03.png" width = 100% align=center />
 
 * git帮助
 
